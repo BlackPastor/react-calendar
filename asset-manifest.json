@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-calendar/static/css/main.ab77cfc2.css",
+    "main.js": "/react-calendar/static/js/main.aede775e.js",
+    "index.html": "/react-calendar/index.html",
+    "main.ab77cfc2.css.map": "/react-calendar/static/css/main.ab77cfc2.css.map",
+    "main.aede775e.js.map": "/react-calendar/static/js/main.aede775e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab77cfc2.css",
+    "static/js/main.aede775e.js"
+  ]
+}
